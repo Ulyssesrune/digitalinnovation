@@ -1,4 +1,4 @@
-package teste
+package testes
 
 import one.digitalinnovation.digionebank.ClienteTipo
 
